@@ -1,1 +1,1 @@
-admin_email=Vlad_mikhalov-dev88@gmail.com
+admin_email="protected"
